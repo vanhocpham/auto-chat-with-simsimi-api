@@ -1,0 +1,19 @@
+{
+  "name": "testchat",
+  "version": "1.0.0",
+  "description": "auto chat with api simsimi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autochat"
+  ],
+  "author": "hoc-anms",
+  "license": "MIT",
+  "dependencies": {
+    "dotnet": "^1.1.4",
+    "facebook-chat-api": "^1.6.1",
+    "simsimi": "^2.0.3"
+  }
+}
